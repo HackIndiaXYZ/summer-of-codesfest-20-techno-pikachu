@@ -83,7 +83,7 @@ cp .env.example .env            # Windows PowerShell: Copy-Item .env.example .en
 npm start
 ```
 
-Open http://localhost:3000 — the header badge shows the active backend ("Powered by Gemini …").
+Open http://localhost:3000 or https://accessibility-copilot.vercel.app — the header badge shows the active backend ("Powered by Gemini …").
 
 Prefer environment variables instead of a file? They work too:
 
